@@ -1,0 +1,13 @@
+candidate_id,final_val_accuracy,total_flops,transpiled_two_qubit_gates,failure_mode,embedding,entangling_gate,n_layers,n_qubits,rotation,topology
+EuroSAT_g03_i08,0.31640625,28129712.0,127,underfitting,amplitude,cnot,4,6,rz,linear
+EuroSAT_g04_i03,0.31640625,28129712.0,127,underfitting,amplitude,cnot,4,6,rz,linear
+EuroSAT_g04_i06,0.25390625,28145272.0,86,underfitting,amplitude,cz,2,6,rz,linear
+EuroSAT_g05_i09,0.25390625,28145272.0,86,underfitting,amplitude,cz,2,6,rz,linear
+EuroSAT_g03_i07,0.24609375,28072280.0,18,expressivity mismatch,amplitude,cnot,4,3,ry,linear
+EuroSAT_g04_i04,0.24609375,28072280.0,18,expressivity mismatch,amplitude,cnot,4,3,ry,linear
+EuroSAT_g04_i05,0.22265625,28072400.0,5,underfitting,amplitude,cz,2,3,rz,linear
+EuroSAT_g01_i01,0.20703125,28069655.0,2,expressivity mismatch,angle,cnot,1,3,ry,linear
+EuroSAT_g00_i08,0.1640625,28078771.0,0,underfitting,angle,cz,4,3,rz,full
+EuroSAT_g03_i02,0.1640625,28078771.0,0,underfitting,angle,cz,4,3,rz,full
+EuroSAT_g04_i07,0.1640625,28078771.0,0,underfitting,angle,cz,4,3,rz,full
+EuroSAT_g04_i11,0.1640625,28078771.0,0,underfitting,angle,cz,4,3,rz,full
